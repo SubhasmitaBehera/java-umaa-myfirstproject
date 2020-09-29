@@ -1,6 +1,6 @@
-package org.example;
+package org.blocks;
 
-public class Keyword {
+public class Static_NonStaticBlock {
     static int a;
     static{
         a = 10;
@@ -14,8 +14,8 @@ public class Keyword {
     }
 
     public static void main(String[] args) {
-        new Keyword();
+        new Static_NonStaticBlock();
         System.out.println("Normal statement in Main method...");
-        new Keyword();
+        new Static_NonStaticBlock();
     }
 }
