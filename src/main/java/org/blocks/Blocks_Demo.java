@@ -24,8 +24,8 @@ public class Blocks_Demo {
             args = new String[10];
             args[0] = "Subhasmita";
             args[1] = "Sangita";
-            args[2] = "Ritu";
             args[3] = "Kathanee";
+            args[2] = "Ritu";
         }
         System.out.println("Array 1st index value "+args[0]);
         System.out.println("Array 2nd index value "+args[1]);

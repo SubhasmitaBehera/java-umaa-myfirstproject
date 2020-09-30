@@ -20,7 +20,7 @@ public class StaticNonStaticDemo {
     // non-static blocks
     // 100 of non static blocks
     {
-        System.out.println("non static statement1");
+        System.out.println("Non Static Statement1...");
         if( x == 0)
         {
             System.out.println("invalid value of x!!!");
@@ -28,7 +28,7 @@ public class StaticNonStaticDemo {
     }
 
     {
-        System.out.println("non static statement2");
+        System.out.println("Non Static Statement2...");
     }
 
     public static void main(String[] args) {
