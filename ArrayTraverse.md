@@ -5,7 +5,7 @@ public class ArrayTraverse {
             int i = 0;
             while (i < arr.length)
             {
-                System.out.println(arr[i]);
+                System.out.println("Name:- "arr[i]);
                 i++;
             }
         }
